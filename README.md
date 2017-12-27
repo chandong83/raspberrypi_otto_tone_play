@@ -20,4 +20,4 @@ $ python test.py
 </pre>
 
 ![connection](./img/image_2.png)
-![connection1](./img/image_1.jpg)
+![connection1](./img/image_1.png)
