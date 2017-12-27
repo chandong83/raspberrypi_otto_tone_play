@@ -13,3 +13,5 @@ for playSound in OB.playSounds:
     ottoTone.sing(playSound)
 
     sleep(1)
+
+ottoTone.stop()
